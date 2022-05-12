@@ -1,0 +1,3 @@
+rootProject.name = 'GenerateLOne'
+include('app')
+include('app-opt')
