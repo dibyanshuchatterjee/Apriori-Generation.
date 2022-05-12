@@ -1,0 +1,3 @@
+rootProject.name = 'AprioriGen'
+include('app')
+include('app-opt')
